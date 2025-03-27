@@ -61,3 +61,14 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem "devise", "~> 4.9"
+
+gem 'activeadmin'
+
+gem 'sprockets-rails'
+
+gem 'sassc-rails'
+
+
+
